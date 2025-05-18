@@ -1,4 +1,4 @@
-import { CardProps } from '@/interfaces/interfaces';
+import { CardProps } from '@/interfaces';
 import React from 'react';
 
 
